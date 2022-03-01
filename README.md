@@ -1,7 +1,7 @@
 # Students-Management-Application
 Students Management Application
 
-Framwork: SSM
+Technology: springboot, mysql, mybatis, shiro,jpa
 
 
 
